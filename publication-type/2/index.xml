@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Yu Wang</title>
+    <link>https://itwoi.github.io/publication-type/2/</link>
+      <atom:link href="https://itwoi.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://itwoi.github.io/media/icon_hu3111a196585143d4d4672ad8e7e42cb6_90823_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://itwoi.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Solving Floating-Point Constraints with Continuous Optimization</title>
+      <link>https://itwoi.github.io/publication/10-1145-3729279/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/10-1145-3729279/</guid>
+      <description>&lt;!-- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SILVA: A Scalable Incremental Layered Sparse Value-Flow Analysis</title>
+      <link>https://itwoi.github.io/publication/10-1145-3725214/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/10-1145-3725214/</guid>
+      <description>&lt;!-- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Effectiveness of Deep Learning Models for Foundational Program Analysis Tasks</title>
+      <link>https://itwoi.github.io/publication/10-1145-3649829/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/10-1145-3649829/</guid>
+      <description>&lt;!-- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Explanation Method for Models of Code</title>
+      <link>https://itwoi.github.io/publication/10-1145-3622826/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/10-1145-3622826/</guid>
+      <description>&lt;!-- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discrete Adversarial Attack to Models of Code</title>
+      <link>https://itwoi.github.io/publication/10-1145-3591227/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/10-1145-3591227/</guid>
+      <description>&lt;!-- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic Detection, Validation and Repair of Race Conditions in Interrupt-Driven Embedded Software</title>
+      <link>https://itwoi.github.io/publication/9072666/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/9072666/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning-Based Hybrid Fuzz Testing</title>
+      <link>https://itwoi.github.io/publication/gao-2021-deep/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/gao-2021-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-precision Data Race Detection Method for Large Scale Programs</title>
+      <link>https://itwoi.github.io/publication/gao-2021-high/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/gao-2021-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Checking of Array Index Out-of-Bounds Defects in C Programs Based on Taint Analysis</title>
+      <link>https://itwoi.github.io/publication/gao-2021-static/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/gao-2021-static/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Buffer Overflow Warning Validation</title>
+      <link>https://itwoi.github.io/publication/gao-2020-automatic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/gao-2020-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>垂悬指针检测与防御方法</title>
+      <link>https://itwoi.github.io/publication/wang-2020-detecting/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/wang-2020-detecting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

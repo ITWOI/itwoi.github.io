@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Equivalence Checking | Yu Wang</title>
+    <link>https://itwoi.github.io/tag/equivalence-checking/</link>
+      <atom:link href="https://itwoi.github.io/tag/equivalence-checking/index.xml" rel="self" type="application/rss+xml" />
+    <description>Equivalence Checking</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://itwoi.github.io/media/icon_hu3111a196585143d4d4672ad8e7e42cb6_90823_512x512_fill_lanczos_center_3.png</url>
+      <title>Equivalence Checking</title>
+      <link>https://itwoi.github.io/tag/equivalence-checking/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the Effectiveness of Deep Learning Models for Foundational Program Analysis Tasks</title>
+      <link>https://itwoi.github.io/publication/10-1145-3649829/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/10-1145-3649829/</guid>
+      <description>&lt;!-- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

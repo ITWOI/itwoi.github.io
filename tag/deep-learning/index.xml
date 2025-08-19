@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Yu Wang</title>
+    <link>https://itwoi.github.io/tag/deep-learning/</link>
+      <atom:link href="https://itwoi.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://itwoi.github.io/media/icon_hu3111a196585143d4d4672ad8e7e42cb6_90823_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>https://itwoi.github.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the Effectiveness of Deep Learning Models for Foundational Program Analysis Tasks</title>
+      <link>https://itwoi.github.io/publication/10-1145-3649829/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/10-1145-3649829/</guid>
+      <description>&lt;!-- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accerlating Constraint Solving in Symbolic Execution by CNN</title>
+      <link>https://itwoi.github.io/project/dlsat/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/project/dlsat/</guid>
+      <description>&lt;p&gt;Boolean satisfiability (SAT) is one of the most well-known NP-complete problems and has been extensively studied. State-of-the-art solvers exist and have found a wide range of applications. However, they still do not scale well to formulas with hundreds of variables for uniform 3-SAT problems. To tackle this scalability challenge, we introduce CNNSAT, a fast and accurate statistical decision procedure for SAT based on convolutional neural networks. CNNSAT’s effectiveness is due to a precise and compact representation of Boolean formulas. On both real and synthetic formulas, CNNSAT is highly accurate and orders of magnitude faster than the state-of-the-art solvers in predicting satisfiability.&lt;/p&gt;
+&lt;p&gt;We also extend CNNSAT to predict the satisfiability of constraints in symbolic execution, which accelerates the constraint solving in symbolic execution, because most unsatisfiable constraints are skipped.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Semantic Program Embeddings</title>
+      <link>https://itwoi.github.io/project/ginn/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/project/ginn/</guid>
+      <description>&lt;p&gt;Learning distributed representations of source code has been a challenging task for machine learning models. Of late, Graph Neural Network (GNN) was proposed to learn embeddings of programs from their graph representations. However, GNN can suffer from precision issues, especially when dealing with programs rendered into large graphs.&lt;/p&gt;
+&lt;p&gt;We present a new graph neural architecture, called Graph Interval Neural Network (GINN), to tackle the weaknesses of the existing GNN.  Unlike the standard GNN, GINN focuses exclusively on intervals (generally manifested in looping construct) for mining the feature representation of a program, furthermore, GINN operates on a hierarchy of intervals for scaling the learning to large graphs.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

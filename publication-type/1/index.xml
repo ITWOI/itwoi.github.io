@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Yu Wang</title>
+    <link>https://itwoi.github.io/publication-type/1/</link>
+      <atom:link href="https://itwoi.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://itwoi.github.io/media/icon_hu3111a196585143d4d4672ad8e7e42cb6_90823_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://itwoi.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Learning semantic program embeddings with graph interval neural network</title>
+      <link>https://itwoi.github.io/publication/wang-2020-learning/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/wang-2020-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dangdone: Eliminating dangling pointers via intermediate pointers</title>
+      <link>https://itwoi.github.io/publication/wang-2018-dangdone/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/wang-2018-dangdone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic detection and validation of race conditions in interrupt-driven embedded software</title>
+      <link>https://itwoi.github.io/publication/dblp-confissta-wang-wyzl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/dblp-confissta-wang-wyzl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting data races in interrupt-driven programs based on static analysis and dynamic simulation</title>
+      <link>https://itwoi.github.io/publication/wang-2015-detecting/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/wang-2015-detecting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
