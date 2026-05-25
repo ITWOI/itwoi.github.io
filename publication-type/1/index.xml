@@ -5,12 +5,21 @@
     <link>https://itwoi.github.io/publication-type/1/</link>
       <atom:link href="https://itwoi.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://itwoi.github.io/media/icon_hu3111a196585143d4d4672ad8e7e42cb6_90823_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://itwoi.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Recover Function Signature from Combined Constraints</title>
+      <link>https://itwoi.github.io/publication/huang-2025-recover/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/huang-2025-recover/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Learning semantic program embeddings with graph interval neural network</title>
